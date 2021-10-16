@@ -5,4 +5,4 @@ const getUserRepos = function() {
   
 getUserRepos();
   
-6.5
+6.5 - stopping point
